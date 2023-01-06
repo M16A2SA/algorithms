@@ -2,8 +2,10 @@ using System;
 using System.Collections;
 
 
-namespace algorithms {
-	public class CustomSolution {
+namespace algorithms
+{
+    public class CustomSolution
+    {
 
-	}
+    }
 }
